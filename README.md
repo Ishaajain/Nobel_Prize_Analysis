@@ -1,6 +1,6 @@
 # Nobel_Prize_Analysis
 
-<img src=https://www.aljazeera.com/wp-content/uploads/2021/10/INTERACTIVE-Nobel-Prize-Categories.png>
+<img src=https://math.scholastic.com/content/dam/classroom-magazines/math/pages/news/2017-18/the-2017-nobel-prize-winners/MA-news-100217-nobel-medium1.jpg>
 
 On November 27, 1895, Alfred Nobel signed his last will in Paris. When it was opened after his death, the will caused a lot of controversy, as Nobel had left much of his wealth for the establishment of a prize.
 
